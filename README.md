@@ -10,7 +10,7 @@ Here is a preview of the project's front page:
 
 ## Introduction
 
-The EduVerse is a decentralized platform designed for buying, selling, and listing educational resources. Built on Ethereum, it allows users to tokenize learning materials, such as eBooks or courses, and trade them securely using NFTs. The marketplace offers transparency, ownership, and monetization opportunities for educational creators and learners alike.
+The EduVerse is a decentralized platform designed for buying, selling, and listing educational resources. Built on EDU Chain, it allows users to tokenize learning materials, such as eBooks or courses, and trade them securely using NFTs. The marketplace offers transparency, ownership, and monetization opportunities for educational creators and learners alike.
 
 ---
 
@@ -106,7 +106,7 @@ The EduVerse is a decentralized platform designed for buying, selling, and listi
 
 ### Deployment
 
-1. Deploy the `EducationMarketPlace` contract on a supported Ethereum network.
+1. Deploy the `EducationMarketPlace` contract on a supported EDU Chain.
 2. Initialize the contract with the desired owner address.
 
 ### Listing a Resource

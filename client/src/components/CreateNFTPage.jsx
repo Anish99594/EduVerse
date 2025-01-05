@@ -49,7 +49,7 @@ const CreateNFTPage = () => {
     }
   }, [data]);
 
-  // Upload file to Pinata and get IPFS URL
+  // Upload file to Pinata and get IPFS URLL
   const handleSubmission = async () => {
     if (!selectedFile) return alert("Please select a file!");
 

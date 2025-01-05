@@ -160,5 +160,5 @@ This project is licensed under the MIT License.
 ## Links
 
 - **GitHub Repository:** [Education Marketplace](https://github.com/Anish99594/EduVerse.git)
-- **Demo Video:** [Watch Here](https://your-demo-video-link)
+- **Demo Video:** [Watch Here](https://drive.google.com/file/d/1zgSQ8CjgKX6tzTYULpat95o-3GXQkB0k/view?usp=sharing)
 - **Project Website:** [Visit Here](https://edu-verse-two.vercel.app/)
